@@ -9,4 +9,5 @@ Todo list for yourxss.pro
 	 - [ ] Instant notification when a flaw is found
 	 - [ ] Internal messaging to contact researcher
  - [x] SSL on all site
+ - [x] Creave CVSS generator & add it on all report
  - [ ] Creating an API
