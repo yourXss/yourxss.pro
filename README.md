@@ -3,6 +3,7 @@ Todo list for yourxss.pro
  - [x] Reasearcher account
 	 - [x] Edit account
 	 - [x] Badge reward
+	 - [x] Contact the owner of the website  
 	 - [ ] Internal messaging to contact owner website
  - [x] Owner website account
 	 - [x] Valide website by security.txt 
